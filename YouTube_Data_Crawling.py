@@ -16,14 +16,12 @@ Youtube_Comments_Crawling (using "Web Driver + Selenium")
 
 '''
 First Step : install web driver and import modules
-- I downloaded "chromium"
-- "urllib" for requesting URL.
+- download "chromium"
 - "bs4" for parsing data
 - "selenium" for dealing with dynamic web page
    + import time 
 '''
 
-import urllib.request as req
 from bs4 import BeautifulSoup
 from selenium import webdriver as wd
 from selenium.webdriver.common.keys import Keys
