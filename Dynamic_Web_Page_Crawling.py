@@ -8,7 +8,7 @@ Created on Sat Jul 17 09:40:19 2021
 """
 Youtube_Comments_Crawling (using "Web Driver + Selenium")
 
-- There are two types of web page. One is a "static web page" and the other is a "dynamic web page."
+- There are two types of web page. One is a "stationary web page" and the other is a "dynamic web page."
 - To crawl data from the dynamic web page, we must use "Web Driver" & "Selenium" 
 - I used "Web Driver" & "Selenium" because Youtube is one of the dynamic web pages.
   ex) Instagram, Facebook etc.
